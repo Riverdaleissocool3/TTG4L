@@ -1,4 +1,4 @@
-rconsolename("Tootsie Owns You ; just joshin!!")
+rconsolename("GRAVEBLADI OWNS U ; RAAAAHHHHH")
 rconsoleprint("@@CYAN@@")
 
 if not game:IsLoaded() then
@@ -21,7 +21,7 @@ local QueueOnTeleport = queue_on_teleport or syn.queue_on_teleport
 local FoundEggs = false;
 
 QueueOnTeleport([[
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/idontcaremago/farm/main/farm.lua", true))();
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Riverdaleissocool3/TTG4L/main/farm.txt", true))();
 ]])
 
 UserSettings().GameSettings.MasterVolume = 0
